@@ -5,3 +5,11 @@
 label {
     font-weight: bold;
 }
+
+span {
+    font-weight: bold;
+}
+
+body {
+    margin-bottom: 40px;
+}
